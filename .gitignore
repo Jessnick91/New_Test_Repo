@@ -8,3 +8,4 @@
 testpg[0-9]
 *.lock
 *.db
+.DS_Store
