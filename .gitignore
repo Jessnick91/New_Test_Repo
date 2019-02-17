@@ -1,1 +1,10 @@
-
+# ignore logs
+*.log
+# packaged files
+*.o
+*.tmp
+*.pyc
+# random other files
+testpg[0-9]
+*.lock
+*.db
