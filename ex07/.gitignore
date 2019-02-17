@@ -1,0 +1,16 @@
+# Ignore Logs
+*.log
+# Ignore Packages
+/node_module
+/packages
+*.o
+*.pyc
+*.class
+# Ignore OS Files
+/bin
+/out
+/target
+*.lock
+*.tmp
+.DS_Store
+Thumbs.db
